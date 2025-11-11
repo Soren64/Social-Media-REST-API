@@ -1,4 +1,4 @@
-# Social-Media-REST-APIs
+# Social-Media-REST-API
 This project was completed as part of a 12-week intensive software engineering training program with Revature. All content from the program (including the project itself) is under NDA and cannot be shared publicly.
 
 # Overview
